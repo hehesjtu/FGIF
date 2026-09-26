@@ -1,0 +1,16 @@
+MATLAB >= R2018a
+
+Required Toolboxes:
+- Image Processing Toolbox
+
+Optional Toolboxes:
+- Signal Processing Toolbox
+
+Operating System:
+- Windows 10 / 11
+- Linux (Ubuntu 18.04 or later)
+- macOS (MATLAB native support)
+
+Notes:
+- No third-party libraries are required.
+- No external datasets are required.
