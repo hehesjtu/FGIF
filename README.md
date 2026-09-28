@@ -1,6 +1,6 @@
-# FGIF: Fractal-Guided Image Filtering with Adaptive Tuning for Single Image Detail Enhancement
+# FGIF: Fractal-domain Guided Image Filter with PerceptuallyAdaptive Tuning for Single Image Detail Enhancement
 
-This repository provides the MATLAB implementation of the paper **"Fractal-Guided Image Filtering with Adaptive Tuning for Single Image Detail Enhancement"**, which is currently under review at **IEEE Transactions on Multimedia**.
+This repository provides the MATLAB implementation of the paper **"FGIF: Fractal-domain Guided Image Filter with PerceptuallyAdaptive Tuning for Single Image Detail Enhancement"**, which is currently under review at **IEEE Transactions on Multimedia**.
 
 
 ## Introduction
