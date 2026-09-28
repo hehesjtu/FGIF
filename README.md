@@ -70,4 +70,4 @@ subplot(1, 2, 2); imshow(I_enhanced); title('enhanced');
 
 ## Contact
 
-For questions about this implementation, please open an issue in the [FGIF repository](https://github.com/hehesjtu/FGIF/issues).
+If you have any questions, please contact us at jianghe@cumt.edu.cn.
